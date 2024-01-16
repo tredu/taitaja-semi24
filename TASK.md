@@ -34,7 +34,7 @@ Varmista että sivusto näkyy oikein alidomainin osoitteessa.
 
 # Yrityksen lisääminen
 ## db.php
-Lisää uusi funktio joka suorittaa INSERT-kyselyn.
+Lisää uusi funktio joka suorittaa INSERT-kyselyn. Lisää funktiolle lyhyt kommentti.
 
 ## insert.php
-Laadi lomake jonka avulla lisätään uusi yritys tietokantaan. Linkitä sivu etusivulle.
+Laadi lomake jonka avulla lisätään uusi yritys tietokantaan. Linkitä sivu etusivulle. Kommentoi tekemäsi sivu lyhyesti.
