@@ -1,4 +1,5 @@
 # Tehtävä
+Tämä on pieni kertaustehtävä ennen lajin 206 Web-kehitys semifinaalia. Tarkoitus käydä läpi cPanelin käyttö ja tehtävän tekemiseen liittyviä muotoseikkoja (markdown, kommentit).
 
 ## GitHub-repon kloonaus
 Kloonaa tämä repo itsellesi
