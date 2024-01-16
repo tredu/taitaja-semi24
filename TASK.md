@@ -12,8 +12,8 @@ Laadi README.md-tiedosto juurihakemistoon. Kirjoita sisältö englanniksi.
 Readme kannattaa aloittaa heti alussa ja päivittää kertaustehtävän lopuksi.
 
 ## Tietokanta
-Lisää itsellesi uusi tietokanta. 
-Lisää tietokantaan SQL-tiedoston company.sql mukainen taulu
+Luo cPanelissa itsellesi uusi tietokanta. Luo uusi käyttäjä ja yhdistä se tietokannallesi.  
+Lisää phpMyAdminissa tietokantaan SQL-tiedoston company.sql mukainen taulu
 
 ## Tietokantayhteys
 Lisää db.php-tiedostoon PDO tai MySQLi-funktio tietokantayhteyden tekemistä varten. Lisää funktio joka hakee kaikki yritykset taulusta.
