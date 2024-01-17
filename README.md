@@ -8,7 +8,7 @@ Kloonaa tämä repo itsellesi
 Laadi README.md-tiedosto juurihakemistoon. Kirjoita sisältö englanniksi.
 - Pääotsikko: 206 Web Development
 - Alaotsikot: General, Techniques
-- Lisää yleistä osaan ainakin oma nimi ja päiväys. Tekniikoissa kerro mitä työvälineitä ja tekniikoita olet käyttänyt tässä työssä. 
+- Lisää yleistä osaan ainakin oma nimi ja päiväys\. Tekniikoissa kerro mitä työvälineitä ja tekniikoita olet käyttänyt tässä työssä. 
 
 Readme kannattaa aloittaa heti alussa ja päivittää kertaustehtävän lopuksi.
 
