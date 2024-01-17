@@ -13,12 +13,9 @@
 <?php
 // include db.php
 
-
 // get all rows
 
-
 // show data
-
 
 ?>
 </body>
