@@ -30,12 +30,25 @@ Tee alidomain skills harjoitukselle. Määritä root-poluksi kansio jossa index.
 ### localhost
 Varmista, että cPanelin alla tietokantayhteydessä palvelimena localhost. RemoteMySQL ei toimi kaikissa web-hotelleissa ja tietoturvan kannalta localhost varmin vaihtoehto.
 
-### testaaminen
+### Testaaminen
 Varmista että sivusto näkyy oikein alidomainin osoitteessa.
+
+# Rekisteröityminen ja kirjautuminen
+## db.php
+Lisää funktiot rekisteröitymistä ja kirjautumista varten db.php-tiedostoon. Salaa käyttäjätunnus Argon2-salausmenetelmällä.
+
+## Rekisteröityminen
+Laadi rekisteröitymistä varten lomake register.php-sivulle. Linkitä tämä etusivullesi.
+
+## Kirjautuminen
+Lisää kirjautumista varten lomake etusivulle.
+
+## Uloskirjautuminen
+Lisää home.php-sivulle linkki uloskirjautumista varten. Testaa uloskirjautumisen toiminta.
 
 # Yrityksen lisääminen
 ## db.php
 Lisää uusi funktio joka suorittaa INSERT-kyselyn. Lisää funktiolle lyhyt kommentti.
 
-## insert.php
-Laadi lomake jonka avulla lisätään uusi yritys tietokantaan. Linkitä sivu etusivulle. Kommentoi tekemäsi sivu lyhyesti.
+## Lisääminen
+Laadi lomake jonka avulla lisätään uusi yritys tietokantaan. Näytä lomake kirjautuneen käyttäjän etusivulla. Kommentoi tekemäsi sivu lyhyesti.
